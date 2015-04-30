@@ -1,0 +1,7 @@
+com\ndj\pojo\bookdata.class
+com\ndj\util\bookdataParser.class
+com\ndj\util\userdataParser.class
+com\dj\bf\Address.class
+com\dj\bf\User.class
+com\ndj\pojo\userdata.class
+com\dj\bf\BookFaceController.class
